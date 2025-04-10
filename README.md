@@ -6,6 +6,10 @@ This dashboard deliver in-depth analysis on Adidas U.S. Sales performance by eva
 With total revenue as $120M and a profit as $47M, while identifying areas for expansion and efficiency.
 
 ## Dashboard Insights:
+
+![image](https://github.com/user-attachments/assets/fbfbc2a8-5704-4bc1-a918-a839c3886504)
+
+
 ### 1. Key Metrics Overview
 * Total revenue of $120M and $47M profit in 6 different product category over 6 retail partners.
 * West Gear retailer generates highest revenue, nearly $32M.
