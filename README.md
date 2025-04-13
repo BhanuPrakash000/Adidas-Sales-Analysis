@@ -7,7 +7,8 @@ With total revenue as $120M and a profit as $47M, while identifying areas for ex
 
 ## Dashboard Insights:
 
-![image](https://github.com/user-attachments/assets/fbfbc2a8-5704-4bc1-a918-a839c3886504)
+![image](https://github.com/user-attachments/assets/f519c595-95dd-4b58-8e21-87b6c11d3526)
+
 
 
 ### 1. Key Metrics Overview
